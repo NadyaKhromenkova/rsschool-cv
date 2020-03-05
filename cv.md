@@ -2,6 +2,7 @@
 
 
 ## Contact info
+
 **E-mail:** nadya.hromenkova@gmail.com
 
 **Telegram:** @hromenkovaa
@@ -13,6 +14,7 @@
 Now I work as QA engineer. Once I've realised that I want to improve my skills. So I decided to become an iOS developer.
 
 ## Skills
+
 * Writing test documentation (test cases, check lists, bug reports)
 * Jira
 * SQL
