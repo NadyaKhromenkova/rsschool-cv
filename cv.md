@@ -27,11 +27,11 @@ Now I work as QA engineer. Once I've realised that I want to improve my skills. 
 
 * September 2019 - now
 
-	Codex Software - QA Engineer
+	**Codex Software** - QA Engineer
 
 * December 2018 - September 2019 
 
-	BSVT - New Technologies - QA Engineer
+	**BSVT - New Technologies** - QA Engineer
 
 ## Education
 
